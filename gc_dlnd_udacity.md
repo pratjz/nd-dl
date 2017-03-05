@@ -126,7 +126,6 @@ Finally, using the browser that you just launched, head to your server’s main 
 http://<host-name>:8123
 ```
 ### Tip : Use instance name not IP.
-and if everything went according to plan, you should see something like this:
 
 ### Sources
 https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/
