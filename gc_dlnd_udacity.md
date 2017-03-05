@@ -1,7 +1,5 @@
 # Google cloud instance setup to train deep neural networks.
 
-## Server Config
-
 ### After sign up to Google Cloud Platform, there are 3 steps:
 
 * Create a Linux VM instance with required hardware specs. Tutorial [here](https://cloud.google.com/compute/docs/quickstart-linux)
