@@ -2,7 +2,7 @@
 
 
 project-1
-https://github.com/dtflaneur/udacity-dl-nandeg/blob/master/dlnd-your-first-neural-network.ipynb
+https://github.com/dtflaneur/udacity-dl-nandeg/blob/master/project-1/dlnd-your-first-neural-network.ipynb
 
 project-2
 
