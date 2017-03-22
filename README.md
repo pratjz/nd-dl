@@ -14,5 +14,5 @@ project-5:
 
 
 ## Deep Learning class with TensorFlow
-class : https://www.udacity.com/course/deep-learning--ud730
-code : https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
+- class : https://www.udacity.com/course/deep-learning--ud730
+- code : https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
