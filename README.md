@@ -12,3 +12,6 @@ class: https://classroom.udacity.com/nanodegrees/nd101
 ## Deep Learning class with TensorFlow
 - class : https://www.udacity.com/course/deep-learning--ud730
 - code : https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
+
+## Google cloud setup to train deep networks
+- https://github.com/dtflaneur/udacity-dl-nandeg/blob/master/gc_dlnd_udacity.md
