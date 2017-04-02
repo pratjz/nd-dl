@@ -15,3 +15,9 @@ class : https://www.udacity.com/course/deep-learning--ud730
 
 ## Google cloud setup to train deep networks
 - https://github.com/dtflaneur/udacity-dl-nandeg/blob/master/gc_dlnd_udacity.md
+
+
+## Resources
+- https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit#gid=358598131
+- https://docs.google.com/spreadsheets/d/13C8TVCn2jNuUQ3RtjQyF940oQ038Gyd-RwQHNPWbSOg/edit#gid=608870057
+- 
