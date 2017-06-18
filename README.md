@@ -6,7 +6,7 @@ class: https://classroom.udacity.com/nanodegrees/nd101
 - project-2: https://github.com/dtflaneur/DL/blob/master/project-2/dlnd_image_classification.ipynb
 - project-3: https://github.com/dtflaneur/DL/blob/master/project-3/dlnd_tv_script_generation.ipynb
 - project-4: https://github.com/dtflaneur/DL/blob/master/project-4/dlnd_language_translation.ipynb
-- project-5:
+- project-5: https://github.com/dtflaneur/DL/blob/master/project-5/dlnd_face_generation.ipynb
 
 
 ## Deep Learning class with TensorFlow
